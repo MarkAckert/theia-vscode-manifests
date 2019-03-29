@@ -9,6 +9,6 @@ url: https://marketplace.visualstudio.com/_apis/public/gallery/publishers/bitlan
 publisher: bitlang
 repository: https://github.com/spgennard/vscode_cobol
 category: Language
-firstPublicationDate: ""
+firstPublicationDate: "2019-03-29"
 attributes:
   containerImage: "eclipse/che-theia-endpoint-runtime:next"
