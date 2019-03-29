@@ -1,0 +1,14 @@
+id: vscode.bitlang.cobol
+version: 4.5.6
+type: VS Code extension
+name: COBOL
+title: COBOL, JCL, PL/I & DIR syntax support
+description: COBOL, JCL, PL/I & DIR syntax support
+icon: https://bitlang.gallerycdn.vsassets.io/extensions/bitlang/cobol/4.5.6/1553819958949/Microsoft.VisualStudio.Services.Icons.Default
+url: https://marketplace.visualstudio.com/_apis/public/gallery/publishers/bitlang/vsextensions/cobol/4.5.6/vspackage
+publisher: bitlang
+repository: https://github.com/spgennard/vscode_cobol
+category: Language
+firstPublicationDate: ""
+attributes:
+  containerImage: "eclipse/che-theia-endpoint-runtime:next"
