@@ -1,0 +1,9 @@
+id: Zowe.vscode-extension-for-zowe
+version: 0.9.0
+type: VS Code extension
+name: Zowe VSCode Extension
+title: Zowe VSCode Extension
+description: The Visual Studio Code (VSC) Extension for Zowe lets you interact with data sets that are stored on IBM z/OS mainframes.
+icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
+attributes:
+  extension: "vscode:extension/Zowe.vscode-extension-for-zowe"
