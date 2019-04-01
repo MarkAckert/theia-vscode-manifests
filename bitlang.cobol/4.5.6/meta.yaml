@@ -7,4 +7,3 @@ description: COBOL, JCL, PL/I & DIR syntax support
 icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
 attributes:
   extension: "vscode:extension/bitlang.cobol"
-  containerImage: "eclipse/che-theia-endpoint-runtime:next"
