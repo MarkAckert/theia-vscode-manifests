@@ -1,4 +1,5 @@
 version: 0.0.1
+apiVersion: "v2"
 type: Che Editor
 name: theia-ide
 id: org.eclipse.che.editor.mainframe.theia
