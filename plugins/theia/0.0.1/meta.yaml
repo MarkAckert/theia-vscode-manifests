@@ -44,7 +44,7 @@ spec:
          discoverable: false
   containers:
     - name: theia-ide
-      image: gcr.io/brightside-workshop-poc/workshop/che4z-workspace:latest
+      image: gcr.io/brightside-workshop-poc/workshop/alcyone-theia:latest
       env:
           - name: THEIA_PLUGINS
             value: local-dir:///plugins
