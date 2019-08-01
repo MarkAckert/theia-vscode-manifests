@@ -63,5 +63,4 @@ spec:
           - exposedPort: 13131
           - exposedPort: 13132
           - exposedPort: 13133
-      memory-limit: "1536M"
-      memoryLimit: "1536M"
+      memoryLimit: "1024M"
