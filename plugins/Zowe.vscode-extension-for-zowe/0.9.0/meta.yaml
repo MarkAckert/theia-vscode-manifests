@@ -1,4 +1,5 @@
 id: Zowe.vscode-extension-for-zowe
+apiVersion: v2
 version: 0.9.0
 type: VS Code extension
 name: Zowe VSCode Extension

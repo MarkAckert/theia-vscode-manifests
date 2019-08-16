@@ -43,7 +43,7 @@ spec:
          protocol: http
          discoverable: false
   containers:
-    - name: theia-ide
+    - name: theia
       image: gcr.io/brightside-workshop-poc/workshop/alcyone-theia:latest
       env:
           - name: THEIA_PLUGINS
