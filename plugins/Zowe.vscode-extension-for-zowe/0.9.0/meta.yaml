@@ -22,4 +22,4 @@ spec:
           name: zowe
       mountSources: true
   extensions:
-    - https://github.com/zowe/vscode-extension-for-zowe/releases/download/untagged-8c7d0bb09614c9cecf86/v1.0.0.vsix
+    - https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Zowe/vsextensions/vscode-extension-for-zowe/1.0.0/vspackage
