@@ -1,9 +1,0 @@
-id: bitlang.cobol
-version: 4.5.6
-type: VS Code extension
-name: COBOL
-title: COBOL, JCL, PL/I & DIR syntax support
-description: COBOL, JCL, PL/I & DIR syntax support
-icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
-attributes:
-  extension: "vscode:extension/bitlang.cobol"
