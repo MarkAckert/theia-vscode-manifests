@@ -11,7 +11,7 @@ repository: https://www.github.com/zowe/vscode-extension-for-zowe
 category: Editor
 spec:
   containers:
-    - image: eclipse/che-theia-endpoint-runtime-binary:7.3.2
+    - image: eclipse/che-remote-plugin-node:7.3.2
       args:
         - sh
         - -c
