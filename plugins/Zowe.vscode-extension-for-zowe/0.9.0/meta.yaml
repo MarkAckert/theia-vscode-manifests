@@ -11,11 +11,11 @@ repository: https://www.github.com/zowe/vscode-extension-for-zowe
 category: Editor
 spec:
   containers:
-    - image: eclipse/che-remote-plugin-node:7.3.2
+    - image: eclipse/che-theia-endpoint-runtime-binary:7.3.2
       args:
         - sh
         - -c
-        - ${PLUGIN_REMOTE_ENDPOINT_EXECUTABLE}  
+        - /remote-endpoint/plugin-remote-endpoint
       env:
         - name: ZOWE_CLI_HOME
           value: /home/user/.zowe
