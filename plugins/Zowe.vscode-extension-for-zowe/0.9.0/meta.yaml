@@ -12,6 +12,7 @@ category: Editor
 spec:
   containers:
     - image: eclipse/che-remote-plugin-node:7.3.2
+
       env:
         - name: ZOWE_CLI_HOME
           value: /home/user/.zowe
@@ -21,4 +22,4 @@ spec:
           name: zowe
       mountSources: true
   extensions:
-    - "vscode:extension/Zowe.vscode-extension-for-zowe"
+    - https://github.com/zowe/vscode-extension-for-zowe/releases/download/untagged-8c7d0bb09614c9cecf86/v1.0.0.vsix
