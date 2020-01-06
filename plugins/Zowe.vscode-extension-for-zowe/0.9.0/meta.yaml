@@ -15,7 +15,7 @@ spec:
       env:
         - name: ZOWE_CLI_HOME
           value: /home/user/.zowe
-      memoryLimit: 256Mi
+      memoryLimit: 512Mi
       volumes: 
         - mountPath: /home/user/.zowe
           name: zowe
