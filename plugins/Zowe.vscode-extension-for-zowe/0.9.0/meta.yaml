@@ -11,7 +11,7 @@ repository: https://www.github.com/zowe/vscode-extension-for-zowe
 category: Language
 spec:
   containers:
-    - image: quay.io/eclipse/che-sidecar-node:10-0cb5d78
+    - image: eclipse/che-remote-plugin-runner-java11:7.3.0
       env:
         - name: ZOWE_CLI_HOME
           value: /home/user/.zowe
